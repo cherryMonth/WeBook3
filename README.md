@@ -1,3 +1,3 @@
 # WeBook3
 
-当前打算用java把webook2重写一下，加油。
+当前打算用java把Golang重写一下，加油。
